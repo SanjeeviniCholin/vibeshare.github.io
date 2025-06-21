@@ -77,7 +77,7 @@ const Sliderbar = ({ selectedTab, setSelectedTab }) => {
         >
           {" "}
           <img
-            src="./pic.jpg"
+            src="../public/pic.jpg"
             alt=""
             width="32"
             height="32"
